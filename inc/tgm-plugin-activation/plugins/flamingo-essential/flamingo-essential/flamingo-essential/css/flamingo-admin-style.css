@@ -1,0 +1,13 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+.fw-option-type-typography-v2 .fw-option-typography-v2-option select {
+    padding: 3px 4px !important;
+    height: 30px;
+}
+.fw-icon-v2-library-pack > li {
+	height: 65px !important;
+}
